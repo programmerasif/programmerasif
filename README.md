@@ -1,6 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGqDoDZQKX8qQ/profile-displaybackgroundimage-shrink_350_1400/0/1685890078323?e=1699488000&v=beta&t=O99P5AlnYX37AXpbIM0lOKjDpp6-hlU005YB28f1r6g" alt="Asif">
 <h1 align="center">Hi 👋, I'm Asif Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<P>In my journey as a MERN stack developer, I am actively developing my skills in back-end development using Express.js. Although I am not a CSC background student, I have been learning HTML, CSS, Javascript, react.JS ,express.js, MongoDB, Firebase, Redux, and many other technologies for a long time. With a strong foundation in front-end development using React.js, I excel at creating dynamic, engaging, and user-friendly interfaces that deliver user experiences.</P>
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-zeta-jet.vercel.app/](https://personal-portfolio-zeta-jet.vercel.app/)
 
