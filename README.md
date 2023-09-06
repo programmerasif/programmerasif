@@ -1,3 +1,4 @@
+<img src="[small.jpg](https://media.licdn.com/dms/image/D5616AQGqDoDZQKX8qQ/profile-displaybackgroundimage-shrink_350_1400/0/1685890078323?e=1699488000&v=beta&t=O99P5AlnYX37AXpbIM0lOKjDpp6-hlU005YB28f1r6g)" alt="Asif">
 <h1 align="center">Hi 👋, I'm Asif Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
