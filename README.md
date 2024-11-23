@@ -1,4 +1,6 @@
-![image alt](https://github.com/programmerasif/programmerasif/blob/08d229102cf0ed844e34fae1c3874025048002ac/banner.png)
+
+  ![image alt](https://github.com/programmerasif/programmerasif/blob/0d32150ee5d487e30a639ac938ed682d2184628a/rsz_banner.png)
+
 <h1 align="center">Hi 👋, I'm Asif Khan</h1>
 <h3 align="center">A passionate frontend focus MERN developer from Bangladesh</h3>
 
