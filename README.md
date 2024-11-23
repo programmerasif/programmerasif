@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/1LwXcjb/Welcome-To-my-Github.png" width="1200px" alt="Banner" />
-</p>
-
+![image alt](https://github.com/programmerasif/programmerasif/blob/08d229102cf0ed844e34fae1c3874025048002ac/banner.png)
 <h1 align="center">Hi 👋, I'm Asif Khan</h1>
 <h3 align="center">A passionate frontend focus MERN developer from Bangladesh</h3>
 
